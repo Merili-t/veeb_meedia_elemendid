@@ -1,0 +1,26 @@
+.clock{
+    width: 554px;
+	height: 945px;
+    position: relative;
+}
+
+.clock *{
+    position: absolute;
+}
+
+.clockface{
+    width: 369px;
+    height: 369px;
+    left: 92px;
+    top: 88px;    
+}
+
+.clockhand{
+    top: 10px;
+    left: 158px;
+}
+
+.pendulum{
+    left: 194px;
+    top: 420px;
+}

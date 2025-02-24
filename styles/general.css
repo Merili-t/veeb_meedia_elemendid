@@ -1,0 +1,58 @@
+body{
+    background-color: #adb5bd;
+    color: black;
+    font-family: 'playfair display', sans-serif;
+    font-size: 1.2em;
+    margin: 0;
+    padding: 0;
+    background-image: url("../../../~rinde/media/pics/background/spiraal_01_horisontaalne.png");
+}
+main{
+    background-color: #adb5bd;
+    margin: 0 auto;
+    width: 80%;
+    padding: 1em;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+}
+header{
+    background-color: #495057;
+    text-align: center;
+    padding: 1.5em;
+    margin-right: 161px;
+    margin-left: 161px;
+    border-left: 10px solid black;
+    border-right: 10px solid black;
+    border-bottom: 15px solid black;
+}
+
+
+section {
+    background-color: #adb5bd;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: rgba(255,255,255,.5);
+    background-image: url("../../../media/pics/background/knopka/knopka_1.png"), url("../../../media/pics/background/knopka/knopka_2.png");
+    background-repeat: no-repeat;
+    background-position: left top, right bottom;
+    background-size: 30px;
+}
+
+nav{
+    color:black;
+    background-color: #3e424656;
+    padding: 10px;
+    border: 5px solid #495057;
+    position: fixed; /*static    relative   absolute   fixed   sticky*/
+	left: 1350px;
+	top: 330px;
+}
+
+a{
+    color: rgba(253, 253, 253, 0.623);
+}
+
+mark{
+    background-color: #9a8c98;
+    color: black;
+}
